@@ -1,0 +1,1 @@
+export const BUY_TOKEN = 'BUY_TOKEN';
